@@ -8,12 +8,12 @@
             i = Covert.ToInt16(Console.ReadLine());
             if (i % 2 == 0)
             {
-			   Console.Write("Entered Number is an even Number");
+			   Console.Write("Entered Number is an even Number added first time after revert");
                            
             }
             else
             {
-			   Console.Write("Entered Number is an odd Number");
+			   Console.Write("Entered Number is an odd Number added second time after revert");
                
             }
         }
