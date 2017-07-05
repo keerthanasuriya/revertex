@@ -10,13 +10,14 @@
             {
 
 			   Console.Write("Entered Number is an even Number added second time");
-
+			   Console.Write("entered is odd");			   
 
             }
             else
             {
 
-			   Console.Write("Entered Number is an odd Number added second time"
+			   Console.Write("Entered Number is an odd Number added second time");
+			   Console.Write("entered number is odd");
 
                
             }
