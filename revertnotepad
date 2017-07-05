@@ -9,12 +9,13 @@
             if (i % 2 == 0)
             {
                 Console.Write("first time added");
-			  		   
+			  		   Console.WriteLine("Second line added");
 
             }
             else
             {			  
-              Console.Write("first time added");               
-            }
+              Console.Write("first time added"); 
+               Console.writeline("Second line added");			  
+          }
         }
     }
