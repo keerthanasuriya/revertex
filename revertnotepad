@@ -10,7 +10,8 @@
             {
 
 			   Console.Write("Entered Number is an even Number added second time");
-			   Console.Write("entered is odd");			   
+			   Console.Write("entered is odd");
+               Console.Write("entered is odd 2nd time");			   
 
             }
             else
@@ -18,6 +19,7 @@
 
 			   Console.Write("Entered Number is an odd Number added second time");
 			   Console.Write("entered number is odd");
+			   Console.Write("entered number is odd 2nd time");
 
                
             }
